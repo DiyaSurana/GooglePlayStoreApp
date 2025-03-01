@@ -94,16 +94,14 @@ Power BI Dashboards include:
 
 ## 📝 Conclusion
 
-This project provides actionable insights into the Google Play Store ecosystem, helping developers and businesses make informed decisions. By leveraging data analytics, we identify trends and factors contributing to app success, ultimately optimizing app development and marketing strategies.
+This project provides actionable insights into the Google Play Store ecosystem, helping developers and businesses make informed decisions. By leveraging data analytics, we identify trends and factors contributing to app success, ultimately optimizing app development and marketing strategies. The analysis highlights the importance of ratings, reviews, and pricing in determining an app's visibility and performance. Additionally, correlation insights help developers focus on features that maximize user engagement.
+By utilizing Power BI for visualizations and Python for statistical analysis, the project bridges the gap between raw data and strategic decision-making, offering a valuable roadmap for app developers and businesses to enhance their market positioning.
 
 ---
 
 ## 📬 Connect With Me
 
 If you have any queries or suggestions, feel free to reach out!\
-📧 Email: [your-email@example.com](mailto\:your-email@example.com)\
-🔗 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)\
-📂 GitHub: [Your GitHub](https://github.com/your-username)
-
-
-
+📧 Email: (jaindiya1002@gmail.com)
+🔗 LinkedIn: (https://www.linkedin.com/in/diyasurana10020224/)
+📂 GitHub: (https://github.com/DiyaSurana)
