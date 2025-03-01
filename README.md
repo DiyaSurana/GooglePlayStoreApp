@@ -6,17 +6,18 @@
    The Google Play Store hosts millions of apps across various categories, making it challenging for developers and businesses to understand what drives app success. With increasing competition, factors like ratings, reviews, pricing, and user engagement play a crucial role in app performance. However, identifying key trends and correlations manually is inefficient.This project aims to analyze Google Play Store data using Python and Power BI to uncover patterns influencing app popularity. By leveraging statistical techniques and visualization tools, the study provides insights into user preferences, helping developers optimize their strategies for better visibility, higher downloads, and improved user satisfaction.
 # 🔍Dataset Information:
   # The dataset used for this analysis contains the following attributes:
-   ** App Name**: The name of the application.
-    Category: The category under which the app is listed.
-    Rating: The average user rating of the app.
-    Reviews: The number of user reviews.
-    Size: The app size.
-    Installs: The number of times the app has been downloaded.
-    Type: Whether the app is free or paid.
-    Price: The cost of the app (if paid).
-    Content Rating: The age group suitability.
-    Genres: The app's genre.
-    Last Updated: The last update date of the app.
-    Current Version: The latest version of the app.
-    Android Version: The required Android version to run the app.
+   App Name: The name of the application.
+   Category: The category under which the app is listed.
+   Rating: The average user rating of the app.
+   Reviews: The number of user reviews.
+   Size: The app size.
+   Installs: The number of times the app has been downloaded.
+   Type: Whether the app is free or paid.
+   Price: The cost of the app (if paid).
+   Content Rating: The age group suitability.
+   Genres: The app's genre.
+   Last Updated: The last update date of the app.
+   Current Version: The latest version of the app.
+   Android Version: The required Android version to run the app.
+# 🛠 Methodology:
 
