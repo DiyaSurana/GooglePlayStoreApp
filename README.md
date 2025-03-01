@@ -73,11 +73,11 @@ The dataset used for this analysis contains the following attributes:
 
 ##  Files Attached
 
-- **Python** : (https://colab.research.google.com/drive/1tpHhm7NgZGv2Dexc61unFAXlDQgCsuIr)
-- **PowerBi**: (https://drive.google.com/drive/folders/1xq8N9oiaTD4ctzgg3wezC4ZYtH5AHK3t)
-- **PPT**: (https://drive.google.com/drive/folders/1xq8N9oiaTD4ctzgg3wezC4ZYtH5AHK3t)
-- **Document**: (https://docs.google.com/document/d/1ELUxKyAW0GMQM_5QQClP60vO6Z9nbQeiCb5yNzWXDGU/edit?tab=t.0#heading=h.wgn5h8iuki5j)
-- **Dataset Cleaning**: (https://docs.google.com/spreadsheets/d/1b6r2cdSrd9Ov7zB0DbphJynFFMpQUov1/edit?gid=744887741#gid=744887741)
+- **Python**:(https://colab.research.google.com/drive/1tpHhm7NgZGv2Dexc61unFAXlDQgCsuIr)
+- **PowerBi**:(https://drive.google.com/drive/folders/1xq8N9oiaTD4ctzgg3wezC4ZYtH5AHK3t)
+- **PPT**:(https://drive.google.com/drive/folders/1xq8N9oiaTD4ctzgg3wezC4ZYtH5AHK3t)
+- **Document**:(https://docs.google.com/document/d/1ELUxKyAW0GMQM_5QQClP60vO6Z9nbQeiCb5yNzWXDGU/edit?tab=t.0#heading=h.wgn5h8iuki5j)
+- **Dataset Cleaning**:(https://docs.google.com/spreadsheets/d/1b6r2cdSrd9Ov7zB0DbphJynFFMpQUov1/edit?gid=744887741#gid=744887741)
 
 ---
 
