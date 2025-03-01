@@ -101,7 +101,8 @@ By utilizing Power BI for visualizations and Python for statistical analysis, th
 
 ## 📬 Connect With Me
 
-If you have any queries or suggestions, feel free to reach out!\
-📧 Email: (jaindiya1002@gmail.com)
-🔗 LinkedIn: (https://www.linkedin.com/in/diyasurana10020224/)
-📂 GitHub: (https://github.com/DiyaSurana)
+If you have any queries or suggestions, feel free to reach out!
+- 📧 **Email**: (jaindiya1002@gmail.com)
+- 🔗 **LinkedIn**: (https://www.linkedin.com/in/diyasurana10020224/)
+- 📂 **GitHub**: (https://github.com/DiyaSurana)
+- 🔗 **PeerList**: (https://peerlist.io/jaindiya)
