@@ -1,5 +1,7 @@
 # Google Play Store Analysis
 
+![Image](https://github.com/user-attachments/assets/f080ff88-b8bc-4a1f-8449-806f43d20439)
+
 ## 📌 Project Overview
 
 The **Google Play Store Analysis** project explores app performance, user behavior, and market trends using data analytics. Leveraging Python for statistical analysis and Power BI for interactive visualizations, the project examines key metrics like ratings, reviews, pricing, installs, and categories. Correlation analysis helps uncover relationships between variables, while Power BI tooltips enhance data interpretation. By identifying trends and patterns, the analysis provides insights into factors influencing app success. Conducted on Google Colab, the project offers valuable recommendations for developers and businesses to optimize their app strategies, improve user engagement, and gain a competitive edge.
